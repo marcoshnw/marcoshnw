@@ -43,7 +43,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 
 <!--Linguagens e Tecnologia-->   
 ---
-<h2 align="left">Lɪɴɢᴜᴀɢᴇɴs & Tᴇᴄɴᴏʟᴏɢɪᴀs:
+<p align="left"><strong><big>Lɪɴɢᴜᴀɢᴇɴs & Tᴇᴄɴᴏʟᴏɢɪᴀs:</big></strong>
 <img 
     align="right" 
     alt="JavaScript" 
@@ -131,7 +131,10 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/></h2>
+/>
+<br/>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/Skills_Animation_Dark.gif">
