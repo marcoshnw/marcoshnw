@@ -40,6 +40,9 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
         />
     </a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!--Linguagens e Tecnologia-->   
 ---
@@ -139,7 +142,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="images/Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src=".images/Skills_Animation_White.gif">
+  <img align="right" alt="GIF description" src=".images/Skills_Animation_White.gif">
 </picture>
 
 <h3 align="left">Current Learning</h3>
