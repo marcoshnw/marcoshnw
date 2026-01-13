@@ -2,7 +2,7 @@
 
 **`Estudande de Engenharia de Software`** **`Fullstack Developer`**
 
-<!--Inicio da Intro-->               
+<!-- Inicio da Intro -->               
 
 Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de aplicações web, desde a estruturação do banco de dados e lógica de negócio até a implementação de interfaces e deploy.
 
@@ -44,48 +44,37 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     </a> 
 </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://......) for more details about me.
-<!--Fim da Intro-->
+- 🎓 Estudante de *Engenharia de Software*.
+- 🎯 Em busca de oportunidade de estágio em desenvolvimento Fullstack / Back-end.
+- 🛠️ Stack principal: PHP (Laravel), JavaScript, HTML, CSS, Git.
+- 📊 Interesse em desenvolvimento de software aplicado à área financeira.
+- 🌍 Em busca de fluência em **inglês**, com foco em comunicação técnica e profissional.
+- 📍 Disponível para estágio **remoto ou presencial**.
+- 💻 Visite meu [Portfólio](https://......) para conhecer meus projetos.
+<!-- Fim da Intro -->
 
-<!--Contact Section--> 
+<!-- SEÇÃO DE CONTATO --> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">→ 𝗢𝗻𝗱𝗲 𝗺𝗲 𝗲𝗻𝗰𝗼𝗻𝘁𝗿𝗮𝗿 ←</h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="images/gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:mp.marcosxavier@gmail.com" target="_blank">
+<img src="images/gmail.png" width=50 height=50 alt="mp.marcosxavier@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="images/twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/marcaobrbs" target="_blank">
+<img src="images/instagram.png" width=50 height=50 alt="instamarcos" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="images/instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="https://www.github.com/marcoshnw" target="_blank">
+<img src="images/github.png" width=50 height=50 alt="gitmarcos" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="images/github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/marcosxavier-dev/" target="_blank">
+<img src="images/linkedin.png" width=50 height=50 alt="linkmarcos" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src="images/linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="images/dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
-<!-- END Contact Section--> 
-
-
+<!-- FIM DA SEÇÃO DE CONTATO--> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
@@ -192,11 +181,13 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
   <img align="right" alt="GIF description" src=".images/Skills_Animation_White.gif">
 </picture>
 
-<h3 align="left">Current Learning</h3>
+<h3 align="left">Aprendizado Atual</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Estudando programação e inglês de forma autodidata, além da formação acadêmica em Engenharia.</li>
+  <li>Aplico conhecimento por meio de projetos práticos e pessoais.</li>
+  <li>Estou desenvolvendo um site pessoal relacionado ao universo gamer.</li>
+  <li>Aprimorando raciocínio lógico e resolução de problemas com desafios reais.</li>
+<li>Busco manter o código limpo, legível e de fácil manutenção.</li>  <li>Utilizo o Git para versionamento e acompanhamento da evolução dos projetos</li>
 </ul>
 
 
