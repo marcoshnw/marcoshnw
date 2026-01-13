@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Marcos Xavier 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Mᴀʀᴄᴏs Xᴀᴠɪᴇʀ 
 
 **`Estudande de Engenharia de Software`** **`Fullstack Developer`**
 
@@ -43,25 +43,9 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 
 <!--Linguagens e Tecnologia-->   
 ---
-<h2 align="left">Linguagens e Tecnologias</h2> 
+<h2 align="left">Lɪɴɢᴜᴀɢᴇɴs & Tᴇᴄɴᴏʟᴏɢɪᴀs:
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
+    align="right" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -69,7 +53,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="right" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -77,7 +61,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
-    align="left" 
+    align="right" 
     alt="Laravel" 
     title="Laravel"
     width="30px" 
@@ -85,7 +69,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
-    align="left" 
+    align="right" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -93,7 +77,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
-    align="left" 
+    align="right" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -101,7 +85,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
-    align="left" 
+    align="right" 
     alt="SASS" 
     title="SASS"
     width="30px" 
@@ -109,7 +93,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
-    align="left" 
+    align="right" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -117,7 +101,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
-    align="left" 
+    align="right" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -125,13 +109,29 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
-    align="left" 
+    align="right" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="right" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="right" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/Skills_Animation_Dark.gif">
