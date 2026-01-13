@@ -184,10 +184,26 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 <h3 align="left">Aprendizado Atual</h3>
 <ul align="left">
   <li>Estudando programação e inglês de forma autodidata, além da formação acadêmica em Engenharia.</li>
+
+---
+
   <li>Aplico conhecimento por meio de projetos práticos e pessoais.</li>
+
+---
+
   <li>Estou desenvolvendo um site pessoal relacionado ao universo gamer.</li>
+
+---
+
   <li>Aprimorando raciocínio lógico e resolução de problemas com desafios reais.</li>
-<li>Busco manter o código limpo, legível e de fácil manutenção.</li>  <li>Utilizo o Git para versionamento e acompanhamento da evolução dos projetos</li>
+
+---
+
+<li>Busco manter o código limpo, legível e de fácil manutenção.</li>  
+  
+---
+
+<li>Utilizo o Git para versionamento e acompanhamento da evolução dos projetos</li>
 </ul>
 
 
