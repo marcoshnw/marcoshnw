@@ -202,8 +202,6 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 <li>Busco manter o código limpo, legível e de fácil manutenção.</li>  
   
 ---
-
-<li>Utilizo o Git para versionamento e acompanhamento da evolução dos projetos</li>
 </ul>
 
 
