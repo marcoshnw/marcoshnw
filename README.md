@@ -43,7 +43,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 
 <!--Linguagens e Tecnologia-->   
 ---
-<p align="left"><strong><big>Lɪɴɢᴜᴀɢᴇɴs & Tᴇᴄɴᴏʟᴏɢɪᴀs:</big></strong>
+<p align="left"><strong><big><big>Lɪɴɢᴜᴀɢᴇɴs & Tᴇᴄɴᴏʟᴏɢɪᴀs:</big></big></strong>
 <img 
     align="right" 
     alt="JavaScript" 
