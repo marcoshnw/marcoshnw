@@ -183,7 +183,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 
 <h3 align="left">Aprendizado Atual</h3>
 <ul align="left">
-  <li>Estudando programação e inglês de forma autodidata, além da formação acadêmica em Engenharia.</li>
+  <li>Estudando programação e inglês de forma autodidata, além da formação acadêmica.</li>
 
 ---
 
