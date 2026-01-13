@@ -15,7 +15,6 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 - 💻 Visit my [Portfolio](https://......) for more details about me.
 <!--Fim da Intro-->
 <br/>
-<br/>
 
 
 <p align="left">
@@ -41,20 +40,10 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
         />
     </a>
 </p>
-<br/>
 
 <!--Linguagens e Tecnologia-->   
 
 <h2 align="center">🤖 Linguagens e Tecnologias</h2> 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="images/Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src=".images/Skills_Animation_White.gif">
-</picture>
-
-<br/>
-
 
 <img 
     align="left" 
@@ -144,6 +133,17 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="images/Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src=".images/Skills_Animation_White.gif">
+</picture>
+
+<br/>
+
 
 <br/>
 <br/>
