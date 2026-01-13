@@ -43,10 +43,9 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 
 <!--Linguagens e Tecnologia-->   
 
-<h2 align="center">🤖 Linguagens e Tecnologias</h2> 
-
+<h2 align="left">Linguagens e Tecnologias</h2> 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -54,7 +53,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -62,15 +61,15 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -78,7 +77,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Laravel" 
     title="Laravel"
     width="30px" 
@@ -86,7 +85,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -94,7 +93,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -102,7 +101,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="SASS" 
     title="SASS"
     width="30px" 
@@ -110,7 +109,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -118,7 +117,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -126,21 +125,19 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
----
-<br/>   
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="images/Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src=".images/Skills_Animation_White.gif">
 </picture>
-
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
