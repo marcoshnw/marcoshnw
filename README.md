@@ -82,7 +82,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 
 <!--Linguagens e Tecnologia-->   
 
-<p align="left"><strong>⚙️ 𝗟𝗜𝗡𝗚𝗨𝗔𝗚𝗘𝗡𝗦 & 𝗧𝗘𝗖𝗡𝗢𝗟𝗢𝗚𝗜𝗔𝗦:</strong>
+<p align="left"><strong>⚙️ 𝗟𝗜𝗡𝗚𝗨𝗔𝗚𝗘𝗡𝗦 & 𝗧𝗘𝗖𝗡𝗢𝗟𝗢𝗚𝗜𝗔𝗦 :</strong>
 <img 
     align="right" 
     alt="JavaScript" 
@@ -101,27 +101,11 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 />
 <img 
     align="right" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="right" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="right" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="right" 
@@ -149,11 +133,27 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 />
 <img 
     align="right" 
-    alt="Git" 
-    title="Git"
+    alt="Laravel" 
+    title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="right" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="right" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"         
 />
 <img 
     align="right" 
@@ -200,47 +200,16 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 ---
 
 <li>Busco manter o código limpo, legível e de fácil manutenção.</li>  
-  
----
+
 </ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--Gráfico de Contribuição-->
+<h2 align="center">📈 Gráfico de Contribuição 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcoshnw&bg_color=111111&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false">
+</div>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
