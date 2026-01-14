@@ -207,14 +207,7 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 
 ---
 
-<!--Gráfico de Contribuição-->
-<h2 align="center">📈 Gráfico de Contribuição 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcoshnw&bg_color=111111&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false">
-</div>
-<br/>
-
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
