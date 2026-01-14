@@ -203,6 +203,10 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
 
 </ul>
 
+</br>
+
+---
+
 <!--Gráfico de Contribuição-->
 <h2 align="center">📈 Gráfico de Contribuição 📈</h2>
 <div align="center">
