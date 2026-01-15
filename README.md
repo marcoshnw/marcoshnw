@@ -7,41 +7,43 @@
 Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de aplicações web, desde a estruturação do banco de dados e lógica de negócio até a implementação de interfaces e deploy.
 
 <p align="left">
- <a href="https://www.linkedin.com/in/marcosxavier-dev/">
-        <img 
-            alt="linkedin views" 
-            title="Vizualizações no LINKEDIN" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79300"
-        />
-    </a> 
-    <a href="https://www.linkedin.com/in/marcosxavier-dev/">
+    <a href="https://github.com/marcoshnw?tab=stars">
         <img 
             alt="linkedin" 
             title="Perfil do LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue?style=for-the-badge&logo=workflow&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star"
         />
     </a>
-    <a href="https://www.linkedin.com/in/marcosxavier-dev/">
+    <a href="">
         <img 
-            alt="linkedin views" 
-            title="Vizualizações no LINKEDIN" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79300"
+            alt="pull" 
+            title="pull request" 
+            src="https://custom-icon-badges.demolab.com/badge/Pull%20Request-purple.svg?logo=pr"
         />
     </a> 
-    <a href="https://github.com/marcoshnw?tab=followers">
+    <a href="https://github.com/marcoshnw?tab=repositories">
         <img 
+            alt="Repo" 
+            title="Repositories" 
+            src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo"
+        />
+        <a href="https://github.com/marcoshnw/marcoshnw/graphs/commit-activity">
+        <img 
+            alt="Commit" 
+            title="Commit" 
+            src="https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff"
+        />
+         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/marcoshnw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/languages/code-size/marcoshnw/custom-icon-badges?logo=file-code&logoColor=white"
         />
-    </a>
-     <a href="https://www.linkedin.com/in/marcosxavier-dev/">
-        <img 
-            alt="linkedin views" 
-            title="Vizualizações no LINKEDIN" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79300"
+        <a href="https://github.com/marcoshnw?tab=followers">
+         <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/marcoshnw?logo=person-add&style=social&logoColor=black"
         />
-    </a> 
 </p>
 
 - 🎓 Estudante de *Engenharia de Software*.
