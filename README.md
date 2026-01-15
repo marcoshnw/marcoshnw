@@ -33,11 +33,6 @@ Desenvolvedor Back-end em formação, atuando no ciclo de desenvolvimento de apl
             title="Commit" 
             src="https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff"
         />
-         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/languages/code-size/marcoshnw/custom-icon-badges?logo=file-code&logoColor=white"
-        />
         <a href="https://github.com/marcoshnw?tab=followers">
          <img 
             alt="Seguidores" 
